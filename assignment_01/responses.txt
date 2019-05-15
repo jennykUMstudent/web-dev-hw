@@ -1,0 +1,22 @@
+1. The internet or internetworking has different kinds of networks such as 
+    LAN or local area network found in your home, school, etc;
+    WAN or wide area network found between two sites who can be in different places, on the same site, using the same network;
+   The web or world wide web is the information data source for the internet networks
+   The internet links all the networks together allowing computers to communicate and share information
+   The web is where you can access the information from the networks inside the internet
+
+2. The internet works is where multiple networks are connected or pathways between networks
+    Using IP Address or internet protocal address 
+      the information has a path to follow to send information between computers or severs
+    
+3. Directory is interchangable with the term 'folder' is a place to store files
+    directory is the direction you go to access a file; 
+     direction: folder-> subfolder-> files 
+     i.e. Photoshop-> Project-> project-1.psd
+          directory-> sub-directory-> file
+
+4. Using a VCS is beneficial since you can
+    Access previous edits; easy trial and error process when working on projects
+    Work on one project with multiple edits, easy to collaborate
+    Work with the industry standard from the beginning
+    
