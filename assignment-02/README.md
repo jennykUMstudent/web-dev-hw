@@ -8,4 +8,4 @@ I have learned 1) the internet vs the web, and how they work; 2) what a VCS is; 
 
 [Responses](./responses.txt)
 
-[Screenshot](./A-02screenshot.png)
+[Screenshot](./images/A-02screenshot.png)
