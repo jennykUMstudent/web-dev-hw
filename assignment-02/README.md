@@ -5,3 +5,7 @@ I have learned 1) the internet vs the web, and how they work; 2) what a VCS is; 
 
 
 [Frequently Visited Website](https://www.amazon.com/hz/wishlist/ls/ZEL66WP9SVQB?type=wishlist&ref=cm_wl_list_create)
+
+[Responses](./responses.txt)
+
+[Screenshot](./A-02screenshot.png)
