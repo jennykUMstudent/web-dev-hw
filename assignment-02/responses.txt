@@ -1,0 +1,4 @@
+The data is stored in whats called a packet full of the information which travels to different computers
+A DNS is what a computer uses to look up the domain name in order to obtain the IP address
+A cookie is a file stored on your computers hard drive to store information about your interactions on a website
+The three main parts of a domain are the protocol, domain name, and the path
