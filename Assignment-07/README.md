@@ -1,7 +1,11 @@
 divs: organizes block elements into single or nested groups of other elements. divs make it more clear and elements become more easily identified.
+
 ids: global identifier that is a unique and specific to each element you label.
+
 classes: identifier that groups similar elements.
-spans: inline equivalent to <div>; identify content requiring organization or extra styling. You can have multiple, span elements require a class and id for a reference to styling code and information to developers about the inner content.
+
+spans: inline equivalent to divs, spans identify content requiring organization or extra styling. You can have multiple, span elements require a class and id for a reference to styling code and information to developers about the inner content.
+
 
 alt text describes the image you are using for a few uses, main use being for the visually impaired to be able to screen the image.
 
