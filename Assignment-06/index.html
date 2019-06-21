@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a contact page for my assignment-06 in web-dev">
+    <meta name="author" content="Jenny Keller">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Site</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <style>
+      table, th, td {
+        border: 1px solid black;
+        }
+      th, td {
+        padding: 15px;
+        text-align: center;
+        }
+      body {background-color: snow}
+      h1 {color: black}
+    </style>
+  </head>
+  <body>
+    <h1>Bernices Bakery Contact Page</h1>
+
+    <table id="t01">
+      <tr>
+        <th>Important Information</th>
+      </tr>
+      <tr>
+        <th scope="row">Hours of Operation</th>
+          <td> <b>Mon - Sat</b>: 6 AM - 8 PM <br /> <b>Sun</b>: 11 AM - 8 PM </td>
+      </tr>
+      <tr>
+        <th scope="row">Phone Number</th>
+          <td>(406) 728-1358</td>
+      </tr>
+      <tr>
+        <th scope="row">Email</th>
+          <td>info@bernicesmt.com</td>
+      </tr>
+    </table>
+      <br>
+      <hr>
+      <form action="/action_page.php">
+          <legend><b>Bakery Questions and Requests</b></legend>
+            <input type="radio" name="Weddings" value="Weddings" checked> Weddings<br>
+            <input type="radio" name="Catering" value="Catering"> Catering<br>
+            <input type="radio" name="General Questions" value="General Questions"> General Questions<br>
+            <input type="radio" name="Other" value="Other"> Other (please specify in comment box)<br>
+            <br>
+          <legend><b>Contact Details</b></legend>
+            First name:<br>
+            <input type="text" name="firstname" maxlength="20"/><br>
+            Last name:<br>
+            <input type="text" name="lastname" maxlength="20"/><br><br>
+            <label>Email:<br />
+              <input type="text" name="email" maxlength="30"/></label>
+            <br />
+              <label>Phone:<br />
+              <input type="text" name="telephone" maxlength="10"/></label>
+              <br>
+              <br>
+              Enter comments and/or questions here:
+              <br>
+              <textarea name="name" rows="8" cols="40"></textarea>
+              <br>
+              <input type="submit" value="SUBMIT">
+      </form>
+      <hr>
+      <p>
+        <u>We are located at</u>:
+      </p>
+        <address>
+          190 S 3rd St W <br/>
+          Missoula, MT <br/>
+          59801<br/>
+          <a    href="info@bernicesmt.com"> Email</a>
+          <br>
+        </address>
+  </body>
+</html>
