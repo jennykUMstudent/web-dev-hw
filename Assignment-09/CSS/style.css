@@ -3,6 +3,15 @@ h1 {
   text-align: center;
   font-family: sans-serif;
 }
+body {
+ background-image: url("https://i.pinimg.com/originals/1b/bf/58/1bbf58846d9646343b475f9ac42a402c.jpg");
+ background-color: #562704;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+ }
+
 .square {
   background-color: white;
   width: 100%;
@@ -48,11 +57,3 @@ h1 {
   left: 30px;
   border: 3px solid #73AD21;
 }
-body {
- background-image: url("https://i.pinimg.com/originals/1b/bf/58/1bbf58846d9646343b475f9ac42a402c.jpg");
- background-color: #562704;
- display: block;
- margin-left: auto;
- margin-right: auto;
- width: 50%;
- }
