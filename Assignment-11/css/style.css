@@ -1,0 +1,74 @@
+/* ---> PAGE-WIDE STYLE <---*/
+ body {
+   margin: 0;
+   font-family: 'Lato', sans-serif;
+   font-size: 1.25em;
+ }
+
+ /* ---> NAVIGATION STYLE <---*/
+ .navigation {
+    background-color: #000099;
+    width: 100%;
+    height: 60px;
+    overflow: hidden;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    line-height: 60px;
+  }
+  .navigation a {
+    color: #FFF;
+    text-decoration: none;
+  }
+
+  /* Logo and title */
+   .site-info {
+     display: inline-block;
+     margin: 0 1em;
+
+     font-size: 150%;
+     text-align: center;
+   }
+   .logo {
+     background-color: #E6EAFF;
+     width: 40px;
+     height: 40px;
+
+     display: inline-block;
+     margin: 10px 20px 10px 10px;
+     float: left;
+
+     border-radius: 100%;
+
+     line-height: 40px;
+     color: #000099;
+     text-transform: uppercase;
+     font-size: 8pt;
+   }
+
+  .site-links {
+    float: right;
+  }
+
+  .site-links a {
+    display: inline-block;
+    padding: 0 1em;
+  }
+  .site-links a:hover, .site-links .active {
+    background-color: #E6EAFF;
+  }
+
+ /* ---> MAIN CONTENT STYLE <--- */
+
+ .main {
+   background-color: #E6EAFF;
+   overflow: auto;
+   padding: 5em;
+ }
+
+ .banner {
+   width: 100%;
+   height: auto;
+ }
