@@ -1,0 +1,28 @@
+html {
+  background-color: #ffab87;
+  font-family: Arial, Helvetica, sans-serif;
+
+
+}
+h1 {
+  color: salmon;
+  text-align: center;
+  font-size: 60px;
+  background-color: white;
+  border: 4px dotted;
+  border-color: salmon;
+}
+hr {
+  border-top: 2px solid salmon;
+  border-bottom: 1px solid #ffab87;
+}
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: -2%;
+  margin-top: auto;
+  width: 20%;
+  border: 4px dotted;
+  border-color: white;
+}
